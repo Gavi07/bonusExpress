@@ -1,0 +1,15 @@
+{
+  "name": "bonusexpress",
+  "version": "1.0.1",
+  "description": "Mostrar resultados tarea 1 a través de un navegador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Daza unicyuri@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
